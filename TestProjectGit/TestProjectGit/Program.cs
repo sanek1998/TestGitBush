@@ -10,6 +10,10 @@ namespace TestProjectGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
+        ////ffgsdgf
+        ////sadfsdfgs/
+        /// sgd
     }
 }
