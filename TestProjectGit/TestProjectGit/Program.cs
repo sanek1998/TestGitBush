@@ -11,9 +11,15 @@ namespace TestProjectGit
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("hello world");
         }
         ////ffgsdgf
         ////sadfsdfgs/
         /// sgd
+    }
+
+    class MyClass
+    {
+        
     }
 }
